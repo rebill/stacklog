@@ -1,4 +1,4 @@
-# StackLog
+# StackLog [![Build Status](https://travis-ci.org/rebill/stacklog.svg?branch=master)](https://travis-ci.org/rebill/stacklog) [![GoDoc](https://godoc.org/github.com/rebill/stacklog?status.svg)](https://godoc.org/github.com/rebill/stacklog)
 colorful output and display call stack
 
 
